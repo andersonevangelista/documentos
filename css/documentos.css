@@ -5,3 +5,9 @@
 .center{
     text-align: center;
 }
+
+.medida{
+    margin: auto;
+    width: 35%;
+    
+}
